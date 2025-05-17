@@ -2,7 +2,7 @@
 
 # Sanskrit Programming Language - Developer Documentation
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/sanskrit-lang/compiler)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Yantrika-Programming-language/Yantrika)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Version](https://img.shields.io/badge/version-0.1.0--alpha-orange)](RELEASES)
 [![Contributors](https://img.shields.io/badge/contributors-welcome-purple)](CONTRIBUTING.md)
@@ -88,7 +88,7 @@ curl -L https://nixos.org/nix/install | sh
 
 ```bash
 # Clone the repository
-git clone https://github.com/sanskrit-lang/compiler.git
+git clone https://github.com/Yantrika-Programming-language/Yantrika.git
 cd sanskrit-compiler
 
 # Build the compiler
@@ -551,7 +551,7 @@ void parser_synchronize(Parser* parser);
    cd sanskrit-compiler
    
    # Add upstream remote
-   git remote add upstream https://github.com/sanskrit-lang/compiler.git
+   git remote add upstream https://github.com/Yantrika-Programming-language/Yantrika.git
    ```
 
 2. **Set Up Development Environment**
@@ -3272,7 +3272,7 @@ Preview of upcoming features in next release:
 
 ---
 
-For support and questions: https://github.com/sanskrit-lang/compiler/discussions
+For support and questions: https://github.com/Yantrika-Programming-language/Yantrika/discussions
 ```
 
 ### Hotfix Process
@@ -3452,7 +3452,7 @@ echo "Release $VERSION validation passed!"
 ### Communication Channels
 
 #### 🗣️ **Discussion Forums**
-- **GitHub Discussions**: [github.com/sanskrit-lang/compiler/discussions](https://github.com/sanskrit-lang/compiler/discussions)
+- **GitHub Discussions**: [github.com/Yantrika-Programming-language/Yantrika/discussions](https://github.com/Yantrika-Programming-language/Yantrika/discussions)
   - General questions
   - Feature requests
   - Show and tell
@@ -3477,7 +3477,7 @@ echo "Release $VERSION validation passed!"
 ### Getting Help
 
 #### ❓ **Before Asking**
-1. Search [existing issues](https://github.com/sanskrit-lang/compiler/issues)
+1. Search [existing issues](https://github.com/Yantrika-Programming-language/Yantrika/issues)
 2. Check the [FAQ](https://sanskrit-lang.org/faq)
 3. Read relevant documentation
 4. Try a minimal reproduction
@@ -3593,7 +3593,7 @@ Current active groups:
 
 #### 🚀 **Getting Started**
 1. Read [CONTRIBUTING.md](CONTRIBUTING.md)
-2. Check [good first issues](https://github.com/sanskrit-lang/compiler/labels/good%20first%20issue)
+2. Check [good first issues](https://github.com/Yantrika-Programming-language/Yantrika/labels/good%20first%20issue)
 3. Join our Discord `#development` channel
 4. Attend a contributors meeting
 
