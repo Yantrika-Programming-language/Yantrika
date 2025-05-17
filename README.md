@@ -1,4 +1,4 @@
-# Yantrika-
+# Yantrika
 
 # Sanskrit Programming Language - Developer Documentation
 
